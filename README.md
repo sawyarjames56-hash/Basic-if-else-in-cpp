@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdul_Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawyarjames56-hash&label=Profile%20views&color=0e75b6&style=flat" alt="sawyarjames56-hash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/sawyarjames56-hash&label=Profile%20views&color=0e75b6&style=flat" alt="sawyarjames56-hash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawyarjames56-hash" alt="sawyarjames56-hash" /></a> </p>
 
