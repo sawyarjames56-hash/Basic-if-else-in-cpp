@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int a,b,c;
+    cout<<"enter the number";
+    cin>>a>>b>>c;
+   int smallest,largest;
+   if (a<=b && a<=c){
+       cout<<"smallest"<<a<<endl;
+   }else if(b<=a && b<=c){
+        cout<<"smallest"<<b<<endl;
+   }else {
+       cout<<"smallest"<<c<<endl;
+   }
+   
+   
+   
+   if (a>=b && a>=c){
+       cout<<"largest"<<a<<endl;
+   }else if(b>=a && b>=c){
+        cout<<"largest"<<b<<endl;
+   }else {
+       cout<<"largest"<<c<<endl;
+   }
+   
+   return 0;
+   }
+
+   
+   
+   

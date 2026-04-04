@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int c{0}, thisisvariable{0},q76354{0},number{0};//(a)
+  cout<<"enter an integer: ";//(b)
+  int x;//(c)
+cin>>x;
+  cout<<(x*3+5);
+ if(x>0){
+      cout<<"the number is positive";
+  }else{
+      cout<<"not";
+  }//(d)
+//  cout<<"my first program\n in c++\n ";//(e)
+  //cout<<"my\nfirst\nprogram\nin\nc++\n ";//(f)
+//cout<<"my\tfirst\tprogram\tin\tc++\t";//(g)
+ // cout<<"my"<<"first"<<"program"<<"in"<<"c++";//(h)
+  
+    return 0;
+}

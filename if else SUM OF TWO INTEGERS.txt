@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main() {
+ int a{0},b{0},sum{0};//declaring the integers
+ cout<<"enter the two integer numbers"<<endl;//print output
+ cout<<"first number"<<endl;//printout
+ cin>>a;//taking first integer from user 
+ cout<< "second number"<<endl;//print out
+ cin>>b;//taking second number from user
+ sum =a+b;//adding two integer numbers
+ cout<<"The sum  is "<<sum<<endl;//print sum
+ 
+ 
+  
+    return 0;
+}//ending of program
